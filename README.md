@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dylan (@yaboywf)
+- 🏫 I'm currently studying in the Diploma in Information Technology at Temasek Polytechnic
 - 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me:
       1. Email - dylanyeowf@gmail.com
