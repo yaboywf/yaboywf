@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Postgresql
 - 📫 How to reach me: Email - dylanyeowf@gmail.com
 - 😄 Pronouns: He/Him
-- 🧠 Techstack: Python, Javascript, App Development, Web Development, Database-related languages (MySQL, etc)
+- 🧠 Techstack: Python, JavaScript, App & Web Development, Database
 - 👀 Check out my portfolio: https://yaboywf.github.io
 
 <!---
