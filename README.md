@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan (@yaboywf)
 - 🏫 I'm currently studying in the Diploma in Information Technology at Temasek Polytechnic
-- 🌱 I’m currently learning Postgresql
+- 🌱 I’m currently learning Ruby
 - 📫 How to reach me: Email - dylanyeowf@gmail.com
 - 😄 Pronouns: He/Him
 - 🧠 Techstack: Python, JavaScript, App & Web Development, Database
