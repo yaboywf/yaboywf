@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ruby
 - 📫 How to reach me: Email - dylanyeowf@gmail.com
 - 😄 Pronouns: He/Him
-- 🧠 Techstack: Python, JavaScript, App & Web Development, Database
+- 🧠 Techstack: Python, JavaScript, App & Web Development, Database and much more! View the whole list on my website
 - 👀 Check out my portfolio: https://yaboywf.github.io
 
 <!---
